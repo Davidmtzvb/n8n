@@ -1,4 +1,8 @@
 {
+  "packageManager": "npm@8.19.2",
+"engines": {
+  "node": "20.x"
+},
   "name": "n8n-monorepo",
   "version": "1.89.0",
   "private": true,
